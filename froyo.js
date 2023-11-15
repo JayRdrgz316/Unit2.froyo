@@ -1,7 +1,7 @@
 /* create prompt for user to input froyo flavors */
 const userInputString = prompt(
     "Please enter some flavors separated by commas.",
-    "vanilla, vanilla, vanilla, strawberry, mint, mint, "
+    " vanilla, vanilla, vanilla, strawberry, mint, mint, "
   );
   
   // Split the string of numbers into an array of strings.
